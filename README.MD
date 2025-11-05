@@ -10,6 +10,7 @@
 
 ### COMMANDE TEST ANDROID PHYSIQUE
 
+> dotnet build -t:Run -f net10.0-android -c Debug
 > dotnet watch run -f net8.0-android
 > dotnet build -t:Run -f net8.0-android -c Debug
 
